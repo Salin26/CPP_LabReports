@@ -1,19 +1,24 @@
-# C++ Lab Reports (4 Days)
+C++ Lab Reports (4 Days)
+This repository contains code + README for 4 lab sessions. Each lab folder includes:
 
-এই রিপোজিটরিতে ৪টা ল্যাবের **কোড + README** রাখা হয়েছে। প্রতিটি ল্যাব ফোল্ডারে:
-- `README.md`: সমস্যা বর্ণনা, ইনপুট/আউটপুট উদাহরণ, রান করার নিয়ম
-- `LabXX_Code.cpp`: C++ সোর্স কোড (উদাহরণসহ)
-- (আপনার রিপোর্ট PDF আলাদাভাবে এখানে যোগ করুন)
+README.md: Problem description, input/output examples, and instructions to run
 
-## Lab List
-1. **Lab Day 1 – Billing Calculator** — Grocery billing with VAT & formatted output
-2. **Lab Day 2 – BMI with Functions** — BMI value & health status
-3. **Lab Day 3 – Student Class** — Name/ID/Dept সহ Student info system
-4. **Lab Day 4 – Book Inventory** — Available বইগুলো দেখানো
+LabXX_Code.cpp: C++ source code (with examples)
 
-## How to Compile (g++)
-```bash
-# উদাহরণ (Lab01 ফোল্ডারের ভিতরে)
+(Attach your separate lab report PDF here)
+Lab List
+Lab Day 1 – Billing Calculator — Grocery billing with VAT & formatted output
+
+Lab Day 2 – BMI with Functions — Calculates BMI and health status
+
+Lab Day 3 – Student Class — Student information system with Name/ID/Dept
+
+Lab Day 4 – Book Inventory — Displays available books
+
+How to Compile (g++)
+bash
+Copy
+Edit
+# Example (inside Lab01 folder)
 g++ Lab01_Code.cpp -o lab01
 ./lab01
-```
