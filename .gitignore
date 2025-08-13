@@ -1,0 +1,32 @@
+# Compiled object files, static and dynamic libs
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+*.a
+*.lib
+
+# Executables
+a.out
+*.exe
+*.out
+
+# Build folders
+/build/
+/dist/
+/bin/
+/cmake-build-*/
+
+# IDE/editor folders
+.vscode/
+.idea/
+*.code-workspace
+
+# Logs and misc
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
