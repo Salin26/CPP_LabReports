@@ -1,24 +1,26 @@
-C++ Lab Reports (4 Days)
-This repository contains code + README for 4 lab sessions. Each lab folder includes:
+# C++ Lab Reports (4 Days)
 
-README.md: Problem description, input/output examples, and instructions to run
+This repository contains C++ lab exercises for 4 sessions, including source code and README documentation. Each lab folder includes:
 
-LabXX_Code.cpp: C++ source code (with examples)
+- `README.md` — Problem description, input/output examples, and instructions to run  
+- `LabXX_Code.cpp` — C++ source code with examples  
+- (Optional) Lab report PDF  
 
-(Attach your separate lab report PDF here)
-Lab List
-Lab Day 1 – Billing Calculator — Grocery billing with VAT & formatted output
+## Lab List
+1. **Lab Day 1 – Billing Calculator**  
+   Grocery billing system with VAT and formatted output.
 
-Lab Day 2 – BMI with Functions — Calculates BMI and health status
+2. **Lab Day 2 – BMI with Functions**  
+   Computes BMI and health status based on user input.
 
-Lab Day 3 – Student Class — Student information system with Name/ID/Dept
+3. **Lab Day 3 – Student Class**  
+   Student information system with Name, ID, and Department.
 
-Lab Day 4 – Book Inventory — Displays available books
+4. **Lab Day 4 – Book Inventory**  
+   Displays a list of available books in inventory.
 
-How to Compile (g++)
-bash
-Copy
-Edit
+## How to Compile and Run
+```bash
 # Example (inside Lab01 folder)
 g++ Lab01_Code.cpp -o lab01
 ./lab01
